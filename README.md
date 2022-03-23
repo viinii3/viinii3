@@ -19,7 +19,7 @@
   <a href = "mailto:marcosviniciuscanty@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-vinicius-clemente-cavalcanti-5194a4199" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-  ![Snake animation]
+  ![Snake animation](https://github.com/viinii3/viinii3/blob/4b13f0f153f12e76b6043af3fc2cde5383164eb0/.github/workflows/cobrinha.yml)
    
   </div>
  
