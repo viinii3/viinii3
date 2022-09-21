@@ -1,7 +1,7 @@
  OLÁ, EU SOU MARCOS VINICIUS!!! 
  ##
-- ✏️ Estudando Engenharia da Computação
-- ✅fazendos curso de programação
+- ✏️ Estudante de Engenharia da Computação
+- ✅ Estudante de programação
 - 📧 Contate-me no email: marcosviniciuscanty@gmail.com
 - 🙂 pronoums: ele/dele
  ##
