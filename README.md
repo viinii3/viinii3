@@ -30,8 +30,6 @@
 
    ![Snake animation](https://github.com/viinii3/viinii3/blob/output/github-contribution-grid-snake.svg)
   </div>
-
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=viinii3&repo=viinii3&theme=react)](https://github.com/viinii3/viinii3)
  
 
   
