@@ -10,7 +10,7 @@
 - ✏️ Computer Engineering student
 - ✅ front-end
 - 📧 Contact: marcosviniciuscanty@gmail.com
-- 🙂 pronoums: ele/dele
+- 🙂 pronoums: he/him
 
  ##
  
