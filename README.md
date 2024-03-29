@@ -38,8 +38,8 @@
      target="_blank"></a> 
   </div>
 
- <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+ <div align="center">
+ ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+ </div>
 
   
