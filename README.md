@@ -1,4 +1,7 @@
- OLÁ, EU SOU MARCOS VINICIUS!!! 
+ HI, MY NAME IS MARCOS VINICIUS!!! 
+ ##
+ ### ABOUT ME:
+ I am a person passionate about technology and I try to stay up to date of the latest area news and put them into practice whenever is possible.
  ##
 - ✏️ Estudante de Engenharia da Computação
 - ✅ Estudante de programação
