@@ -38,8 +38,6 @@
      target="_blank"></a> 
   </div>
 
- <div align="center">
  ![snake gif](https://github.com/viinii3/viinii3/blob/output/github-contribution-grid-snake.svg)
- </div>
 
   
