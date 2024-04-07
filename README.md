@@ -1,5 +1,6 @@
- HI, MY NAME IS MARCOS VINICIUS!!! 
- 
+<img align="right" alt="" height="300px" src="">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5b8ac6&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Vini!)](https://git.io/typing-svg)
  ##
  
  ### ABOUT ME:
@@ -45,5 +46,5 @@
 </picture>
 <br><br>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
   
