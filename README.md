@@ -1,10 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5b8ac6&height=120&section=header"/>
+
 <img align="right" alt="" height="300px" src="">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5b8ac6&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Vini!)](https://git.io/typing-svg)
- ##
- 
- ### ABOUT ME:
- I am a person passionate about technology and I try to stay up to date of the latest area news and put them into practice whenever is possible.
+
+<p align='left'>
+  I am a person passionate about technology and I try to stay up to date of the latest area news and put them into practice whenever is possible.
+</p> 
  
  ##
  
@@ -30,7 +32,7 @@
    <img align="center" alt="viinii3-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
  </div>
  
-  ##
+ <hr color="5b8ac6"/ >
   
   <div>
   <a href="https://instagram.com/viinii__3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
