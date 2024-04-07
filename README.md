@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5b8ac6&height=120&section=header"/>
 
-<img align="right" alt="" height="300px" src="">
+<img align="right" alt="" height="300px" src="./aboutMe">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5b8ac6&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Vini!)](https://git.io/typing-svg)
 
