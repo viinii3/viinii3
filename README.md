@@ -14,9 +14,11 @@
  
  ##
  
-- <img src=''> Computer Engineering student
-- <img src=''> front-end
-- <img src=''> pronoums: he/him
+🌀 Computer Engineering student
+<br/>
+🌀 Front-End
+<br/>
+🌀 Pronoums: he/him
 
  ##
  <h3 align="center">Contact me:</h3>
