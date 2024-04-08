@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e4ca8&height=120&section=header"/>
-
 <img align="right" alt="" height="300px" src="./aboutMe.jpeg">
 
 <div align="center">
-
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2751a5&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Vini!)](https://git.io/typing-svg)
 
 </div>
@@ -13,12 +12,11 @@
 </p> 
  
  ##
- 
-🌀 Computer Engineering student
+:large_blue_circle: Computer Engineering student
 <br/>
-🌀 Front-End
+:large_blue_circle: Front-End
 <br/>
-🌀 Pronoums: he/him
+:large_blue_circle: Pronoums: he/him
 
  ##
  <h3 align="center">Contact me:</h3>
@@ -35,14 +33,12 @@
 <h3 align="center">Github stats:</h3>
 
 <img width=55% align="left" src="https://github-readme-streak-stats.herokuapp.com?user=viinii3&theme=blue_navy&mode=weekly" />
-
 <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=viinii3&layout=compact&langs_count=7&theme=blue_navy"/>
 
 ##
 <h3 align="center">My skills</h3>
 
 #### Main Stack:
-
 ![React.js](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=2751a5&color:FFF)&nbsp;
 ![Js](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=2751a5&color:FFF)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=2751a5&color:FFF)&nbsp;
@@ -50,7 +46,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=2751a5&color:FFF)&nbsp;
 
 #### Secondary Stack:
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=2751a5&color:FFF)&nbsp;
 ![Jquery](https://img.shields.io/badge/-Jquery-000?style=for-the-badge&logo=jquery&logoColor=2751a5&color:FFF)&nbsp;
 ![Sass](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass&logoColor=2751a5&color:FFF)&nbsp;
@@ -58,17 +53,14 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=2751a5&color:FFF)&nbsp;
 
 #### Studying in this moment:
-
 ![Vue.js](https://img.shields.io/badge/-VueJS-000?style=for-the-badge&logo=vue.js&logoColor=2751a5&color:FFF)&nbsp;
 ![My SQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=2751a5&color:FFF)&nbsp;
 ![Python](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python&logoColor=2751a5&color:FFF)&nbsp;
 
 #### Workstation Tools:
-
 ![Vscode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=vscode&logoColor=2751a5&color:FFF)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=2751a5&color:FFF)&nbsp;
 
- 
 ##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viinii3/viinii3/output/github-contribution-grid-snake-dark.svg">
