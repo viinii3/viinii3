@@ -60,6 +60,9 @@
 #### Workstation Tools:
 ![Vscode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=vscode&logoColor=2751a5&color:FFF)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=2751a5&color:FFF)&nbsp;
+![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=2751a5&color:FFF)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=2751a5&color:FFF)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=2751a5&color:FFF)&nbsp;
 
 ##
 <picture>
