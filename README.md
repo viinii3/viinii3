@@ -1,16 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e4ca8&height=120&section=header"/>
+
+<!-- Profile Img ------------------------------------------------------------------------------------------------------------------ -->
 <img align="right" alt="" height="300px" src="./aboutMe.jpeg">
 
+<!-- Name Animation --------------------------------------------------------------------------------------------------------------- -->
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2751a5&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Vini!)](https://git.io/typing-svg)
 
 </div>
 
+<!-- About ----------------------------------------------------------------------------------------------------------------------- -->
 <p align="left">
   I am a passionate individual deeply immersed in the realm of technology, particularly in the dynamic field of front-end development. Constantly staying abreast of the latest trends, tools, and methodologies is not just a hobby for me; it's a way of life. With each new advancement, I eagerly delve into the intricacies of front-end development, exploring innovative frameworks, mastering cutting-edge languages, and honing my skills to craft seamless user experiences.
 </p> 
- 
+
+ <!-- Topics --------------------------------------------------------------------------------------------------------------------- -->
  ##
 :large_blue_circle: Computer Engineering student
 <br/>
@@ -18,6 +23,7 @@
 <br/>
 :large_blue_circle: Pronoums: he/him
 
+<!-- Contact Section ----------------------------------------------------------------------------------------------------------------- -->
  ##
  <h3 align="center">Contact me:</h3>
  
@@ -29,12 +35,14 @@
 
 </div>
 
+<!-- Github Stats Section ------------------------------------------------------------------------------------------------------------- -->
 ##
 <h3 align="center">Github stats:</h3>
 
 <img width=55% align="left" src="https://github-readme-streak-stats.herokuapp.com?user=viinii3&theme=blue_navy&mode=weekly" />
 <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=viinii3&layout=compact&langs_count=7&theme=blue_navy"/>
 
+<!-- Skills Section -------------------------------------------------------------------------------------------------------------- -->
 ##
 <h3 align="center">My skills</h3>
 
@@ -64,6 +72,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=2751a5&color:FFF)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=2751a5&color:FFF)&nbsp;
 
+<!-- Cobrinha de Commit ----------------------------------------------------------------------------------------------------------- -->
 ##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viinii3/viinii3/output/github-contribution-grid-snake-dark.svg">
