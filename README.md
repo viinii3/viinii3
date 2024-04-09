@@ -12,7 +12,7 @@
 
 <!-- About ----------------------------------------------------------------------------------------------------------------------- -->
 <p align="left">
-  I am a passionate individual deeply immersed in the realm of technology, particularly in the dynamic field of front-end development. Constantly staying abreast of the latest trends, tools, and methodologies is not just a hobby for me; it's a way of life. With each new advancement, I eagerly delve into the intricacies of front-end development, exploring innovative frameworks, mastering cutting-edge languages, and honing my skills to craft seamless user experiences.
+  Sou um amante da tecnologia, especialmente do desenvolvimento front-end. Estou sempre buscando aprender o que há de mais recente, seja em ferramentas, tendências ou técnicas. Adoro explorar novos frameworks e     dominar novas linguagens para criar experiências incríveis para os usuários. Para mim, a tecnologia não é apenas trabalho; é uma paixão que me motiva a aprender constantemente e a enfrentar novos desafios.
 </p> 
 
  <!-- Topics --------------------------------------------------------------------------------------------------------------------- -->
