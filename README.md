@@ -12,7 +12,7 @@
 
 <!-- About ----------------------------------------------------------------------------------------------------------------------- -->
 <p align="left">
-  Sou um amante da tecnologia, especialmente do desenvolvimento front-end. Estou sempre buscando aprender o que há de mais recente, seja em ferramentas, tendências ou técnicas. Adoro explorar novos frameworks e     dominar novas linguagens para criar experiências incríveis para os usuários. Para mim, a tecnologia não é apenas trabalho; é uma paixão que me motiva a aprender constantemente e a enfrentar novos desafios.
+  Sou apaixonado por tecnologia, especialmente pelo desenvolvimento front-end, embora esteja aberto a explorar outras áreas do mercado. Estou sempre em busca de aprender o que há de mais recente em ferramentas, tendências e técnicas. Adoro explorar novos frameworks e aperfeiçoar minhas habilidades em diferentes linguagens para criar experiências incríveis para os usuários. Para mim, a tecnologia vai além do trabalho; é uma paixão que me impulsiona a aprender continuamente e enfrentar novos desafios.
 </p> 
 
  <!-- Topics --------------------------------------------------------------------------------------------------------------------- -->
