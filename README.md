@@ -52,15 +52,15 @@
 ![HTML](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=2751a5&color:FFF)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=2751a5&color:FFF)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=2751a5&color:FFF)&nbsp;
+![Sass](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass&logoColor=2751a5&color:FFF)&nbsp;
 
 #### Secondary Stack:
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=2751a5&color:FFF)&nbsp;
 ![Jquery](https://img.shields.io/badge/-Jquery-000?style=for-the-badge&logo=jquery&logoColor=2751a5&color:FFF)&nbsp;
-![Sass](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass&logoColor=2751a5&color:FFF)&nbsp;
 ![Gulp](https://img.shields.io/badge/-Gulp-000?style=for-the-badge&logo=gulp&logoColor=2751a5&color:FFF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=2751a5&color:FFF)&nbsp;
 
 #### Studying in this moment:
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=2751a5&color:FFF)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-VueJS-000?style=for-the-badge&logo=vue.js&logoColor=2751a5&color:FFF)&nbsp;
 ![My SQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=2751a5&color:FFF)&nbsp;
 ![Python](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python&logoColor=2751a5&color:FFF)&nbsp;
