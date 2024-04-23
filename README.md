@@ -24,7 +24,7 @@
 :large_blue_circle: Pronoums: he/him
 
 <!-- Contact Section ----------------------------------------------------------------------------------------------------------------- -->
- ##
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e4ca8&height=120&section=footer"/>
  <h3 align="center">Contact me:</h3>
  
 <div align="center">
@@ -43,7 +43,7 @@
 <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=viinii3&layout=compact&langs_count=7&theme=blue_navy"/>
 
 <!-- Skills Section -------------------------------------------------------------------------------------------------------------- -->
-##
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e4ca8&height=120&section=header"/>
 <h3 align="center">My skills</h3>
 
 #### Main Stack:
@@ -73,7 +73,6 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=2751a5&color:FFF)&nbsp;
 
 <!-- Cobrinha de Commit ----------------------------------------------------------------------------------------------------------- -->
-##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viinii3/viinii3/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viinii3/viinii3/output/github-contribution-grid-snake.svg">
