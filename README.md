@@ -17,9 +17,9 @@
 
  <!-- Topics --------------------------------------------------------------------------------------------------------------------- -->
  ##
-:large_blue_circle: Computer Engineering student
+:large_blue_circle: Graduate in Computer Engineering
 <br/>
-:large_blue_circle: Front-End
+:large_blue_circle: Full Stack
 <br/>
 :large_blue_circle: Pronoums: he/him
 
