@@ -12,16 +12,14 @@
 
 <!-- About ----------------------------------------------------------------------------------------------------------------------- -->
 <p align="left">
-  Sou apaixonado por tecnologia, especialmente pelo desenvolvimento front-end, embora esteja aberto a explorar outras áreas do mercado. Estou sempre em busca de aprender o que há de mais recente em ferramentas, tendências e técnicas. Adoro explorar novos frameworks e aperfeiçoar minhas habilidades em diferentes linguagens para criar experiências incríveis para os usuários. Para mim, a tecnologia vai além do trabalho; é uma paixão que me impulsiona a aprender continuamente e enfrentar novos desafios.
+  Sou apaixonado por tecnologia, especialmente pelo desenvolvimento Full Stack, embora esteja aberto a explorar outras áreas do mercado. Estou sempre em busca de aprender o que há de mais recente em ferramentas, tendências e técnicas. Adoro explorar novos frameworks e aperfeiçoar minhas habilidades em diferentes linguagens para criar experiências incríveis para os usuários. Para mim, a tecnologia vai além do trabalho; é uma paixão que me impulsiona a aprender continuamente e enfrentar novos desafios.
 </p> 
 
  <!-- Topics --------------------------------------------------------------------------------------------------------------------- -->
  ##
-:large_blue_circle: Graduate in Computer Engineering
+:large_blue_circle: Graduado em Engenharia da Computação
 <br/>
-:large_blue_circle: Full Stack
-<br/>
-:large_blue_circle: Pronoums: he/him
+:large_blue_circle: Pós-Graduado em Desenvolvimento Full Stack (Cursando)
 
 <!-- Contact Section ----------------------------------------------------------------------------------------------------------------- -->
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e4ca8&height=120&section=footer"/>
@@ -31,7 +29,6 @@
   
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=2751a5&color:FFF)](mailto:marcosviniciuscanty@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=2751a5&color:FFF)](https://www.linkedin.com/in/marcosvclementec/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=2751a5&color:FFF)](https://instagram.com/viinii__3)
 
 </div>
 
@@ -47,26 +44,18 @@
 <h3 align="center">My skills</h3>
 
 #### Main Stack:
-![React.js](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=2751a5&color:FFF)&nbsp;
+![React.js](https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react&logoColor=2751a5&color:FFF)&nbsp;
 ![Js](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=2751a5&color:FFF)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=2751a5&color:FFF)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=2751a5&color:FFF)&nbsp;
-![Sass](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass&logoColor=2751a5&color:FFF)&nbsp;
+![NEXT.JS](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=2751a5&color:FFF)&nbsp;
 
 #### Secondary Stack:
-![Jquery](https://img.shields.io/badge/-Jquery-000?style=for-the-badge&logo=jquery&logoColor=2751a5&color:FFF)&nbsp;
-![Gulp](https://img.shields.io/badge/-Gulp-000?style=for-the-badge&logo=gulp&logoColor=2751a5&color:FFF)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular&logoColor=2751a5&color:FFF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=2751a5&color:FFF)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=2751a5&color:FFF)&nbsp;
-
 
 #### Studying in this moment:
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=2751a5&color:FFF)&nbsp;
-![Vue.js](https://img.shields.io/badge/-VueJS-000?style=for-the-badge&logo=vue.js&logoColor=2751a5&color:FFF)&nbsp;
+![Vscode](https://img.shields.io/badge/Backend-000?style=for-the-badge&logo=backend&logoColor=2751a5&color:FFF)&nbsp;
 ![My SQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=2751a5&color:FFF)&nbsp;
-![Python](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python&logoColor=2751a5&color:FFF)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=Next.js&logoColor=2751a5&color:FFF)&nbsp;
-
+![React Native](https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react&logoColor=2751a5&color:FFF)&nbsp;
 
 #### Workstation Tools:
 ![Vscode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=vscode&logoColor=2751a5&color:FFF)&nbsp;
